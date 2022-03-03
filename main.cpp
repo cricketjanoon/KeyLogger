@@ -1,6 +1,9 @@
 #include <iostream>
 #include <windows.h>
 
+#include "Helper.h"
+#include "KeyConstants.h"
+
 using namespace std;
 
 int main()

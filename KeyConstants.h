@@ -6,9 +6,9 @@
 
 class KeyPair {
     public:
-        KeyPair(const std::string &vk="", const std::string &name="") : VKName{vk}, Name{name} { } //constructor
-        std::string VKNmae;
+        std::string VKName;
         std::string Name;
+        KeyPair(const std::string &vk="", const std::string &name="") : VKName{vk}, Name{name} { } //constructor
 };
 
 class Keys {
