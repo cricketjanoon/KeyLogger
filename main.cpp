@@ -4,6 +4,7 @@
 #include "Helper.h"
 #include "KeyConstants.h"
 #include "Base64.h"
+#include "IO.h"
 
 using namespace std;
 
